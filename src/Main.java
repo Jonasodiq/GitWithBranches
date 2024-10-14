@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         
 
-        // nu ska vi börja programera
+        // Nu ska jag börja programera
 
         // Jonas fixar commit
 
